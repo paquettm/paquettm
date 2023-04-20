@@ -61,8 +61,8 @@ Time period covered (don't forget to update this each time!)
 
 - Remind the reader of what project you are working on, and the degree of completion (how far you are from finishing it). 
 - Then, in one page (maximum 2 pages if necessary) describe the nature, content, and progress of your work during the last reporting period. The tone and style of this section should be neutral and professional. 
-- Describe what you did, how you did it, why you did it, what worked, what did not work, what knowledge you were using, and what you learned.
-- Provide insight of wanted future development.
+- Describe what you did, how you did it, why you did it, what worked, what did not work, what knowledge you were using, and **what you learned**.
+- **Provide insight of wanted future development**: tell us about what you need to learn to further advance.
 - You should write in full sentences and paragraphs, but you may use bulleted lists where appropriate.
 
 ### Section 3 - PERSONAL INFORMATION
