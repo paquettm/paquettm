@@ -16,7 +16,8 @@ Keep your daily task log beside you while you work and complete it at least once
 1. research and development requirements,
 2. client billing purposes,
 3. etc.
-Get used to the exercise, because it turns out that logging your time is a first step to learning how to harness and maximise your time.
+
+Get used to the exercise, because logging your time is a first step to learning how to harness and maximise your time.
 
 Moreover, this documentation exercise will enable you to track your time at work, to justify your use of time, request a higher salary, or provide supporting documentation when billing consultation clients.
 
@@ -26,9 +27,7 @@ After each 100 hours of internship, you must deliver one task log covering this 
 
 ## Requirements
 
-Write your task log in tabular (table) format with the following information fields, from left to right: Date, Description, Status.
-
-At least at the end of each day, record a list of the things you worked on.
+Write your task log in tabular (table) format with the following information fields, from left to right: Date, Description, Status. Fill in the details as indicated above. Keep your task logging sheet next to your workstation and make a habit of logging tasks each time you change what you do. At the end of each day, verify that you have recorded the list of the things you worked on and make corrections where needed.
 
 ## Guidelines
 
@@ -39,9 +38,19 @@ References:
 
 # Reflection log
 
-The purpose of a reflection log is to support your career and personal development. In the reflection log, you must write:
-1) What you did, how you did it, why you did it, what worked, what did not work, what knowledge were you using, and what did you learn?
-Hopefully, those events and this reflection will provide an indication of wanted future development. This is the desired outcome.
+The purpose of a reflection log is to support your career and personal development. In the reflection log, you should write
+1. What you did,
+2. how you did it, 
+3. why you did it, 
+4. who with, 
+5. when, 
+6. what worked, 
+7. what did not work, 
+8. what knowledge were you using,
+9. what knowledge is missing, and 
+10. what you learned.
+
+Hopefully, those events and this reflection will provide insight and indications of required/desirable future development (the desired outcome).
 
 ## Deadline
 
