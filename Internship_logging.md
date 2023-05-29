@@ -2,7 +2,15 @@
 
 A task log is a list of the things you worked on in a day. You must record, each day
 - the tasks you worked on
-- the completion status of these tasks: for each task, did you complete it or is it ongoing?
+- the completion status of these tasks: for each task, write if you completed it, if it is ongoing, if you are awaiting feedback, if information is missing and which information
+- with whom you worked on these tasks, when and where
+- a brief indication of how you worked on this task
+
+example:
+| Description  | Status  |
+|---|---|
+| Google SSO for the MockTube Web Application, at the office with Josh before lunch. Implementation with the JS library.  | Complete  |
+| Facebook integration for MockTube video promotion. At the office, alone, after lunch.  | Missing information about the request format: must ask Josh.  |
 
 Keep your daily task log beside you while you work and complete it at least once at the end of the day. Many companies require employees to log their activities because of research and development requirements.
 
