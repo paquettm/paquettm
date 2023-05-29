@@ -7,22 +7,26 @@ A task log is a list of the things you worked on in a day. You must record, each
 - a brief indication of how you worked on this task
 
 example:
-| Description  | Status  |
-|---|---|
-| Google SSO for the MockTube Web Application, at the office with Josh before lunch. Implementation with the JS library.  | Complete  |
-| Facebook integration for MockTube video promotion. At the office, alone, after lunch.  | Missing information about the request format: must ask Josh.  |
+| Date  | Description  | Status  |
+|---|---|---|
+| June 10, 2023 | Google SSO for the MockTube Web Application, at the office with Josh before lunch. Implementation with the JS library. | Complete  |
+| June 10, 2023 | Facebook integration for MockTube video promotion. At the office, alone, after lunch.  | Missing information about the request format: must ask Josh. |
 
-Keep your daily task log beside you while you work and complete it at least once at the end of the day. Many companies require employees to log their activities because of research and development requirements.
+Keep your daily task log beside you while you work and complete it at least once at the end of the day. Many companies require employees to log their activities because of
+1. research and development requirements,
+2. client billing purposes,
+3. etc.
+Get used to the exercise, because it turns out that logging your time is a first step to learning how to harness and maximise your time.
 
-The goal of this documentation exercise is to enable you to track your time at work, to justify your use of time, request a higher salary, or provide supporting documentation when billing a client.
+Moreover, this documentation exercise will enable you to track your time at work, to justify your use of time, request a higher salary, or provide supporting documentation when billing consultation clients.
 
 ## Deadline
 
-After each 100 hours of internship, you must deliver one reflection log covering this reporting period.
+After each 100 hours of internship, you must deliver one task log covering this reporting period.
 
 ## Requirements
 
-Write your task log in tabular (table) format with the following information fields, from left to right: date, tasks, status of each task ('started', 'ongoing', or 'complete').
+Write your task log in tabular (table) format with the following information fields, from left to right: Date, Description, Status.
 
 At least at the end of each day, record a list of the things you worked on.
 
