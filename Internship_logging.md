@@ -51,11 +51,21 @@ The purpose of a reflection log is to support your career and personal developme
 10. what you learned.
 
 Hopefully, those events and this reflection will provide insight and indications of required/desirable future development (the desired outcome).
-## Example
+## Example Entry
 
 A sample entry in a reflection log could be as follows:
 
 2023-05-29, at the Office, in an all-day pair programming session with Johnny Appleseed, we implemented Google Single Sign On for our MockTube Web application. We both used our knowledge of JavaScript OOP to integrate the Google JavaScript library into our application.  During the session, I learned how to write functions with default parameters. My knowledge of callback structure in JS needs work. Moreover, I will have to get used to pair programming as it will be my responsibility to onboard new hires a year from now.
+
+## Your Deliverable
+
+A list of daily entries could be somewhat interesting, but would not bring intense insight into the process. Therefore, you must go through your daily entries and synthesise groups of entries related to the same project and find the overarching/recurring themes and items. From this, you should be able to prioritise your future learning/development items. A sample paragraph may be as follows:
+
+2023-05-28 to 2023-06-02, at the Office, I spent most of my time working on the MockTube Web application, supervised by team lead Johnny Appleseed. For this application, I spent most of my time implementing features using front-end JavaScript and tying it in with the backend to we implemented Google Single Sign On and other authentication options. I learned a lot of native JavaScript and moving forward must increase my knowledge of callback structure in JS. 
+
+I faced one major technical challenge when left alone: I could not understand how the JWT would get to be secure if it was called in the front end. I soon learned that the authentication process has front-end and back-end phases that enable security.
+
+I found that the process of pair programming was worth the effort to make sure that team members get to maximise their learning from one-another. Moreover, I will have to get comfortavble with this process I will use this to help onboard new hires as early as December.
 
 ## Deadline
 
