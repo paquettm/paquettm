@@ -51,6 +51,11 @@ The purpose of a reflection log is to support your career and personal developme
 10. what you learned.
 
 Hopefully, those events and this reflection will provide insight and indications of required/desirable future development (the desired outcome).
+## Example
+
+A sample entry in a reflection log could be as follows:
+
+2023-05-29, at the Office, in an all-day pair programming session with Johnny Appleseed, we implemented Google Single Sign On for our MockTube Web application. We both used our knowledge of JavaScript OOP to integrate the Google JavaScript library into our application.  During the session, I learned how to write functions with default parameters. My knowledge of callback structure in JS needs work. Moreover, I will have to get used to pair programming as it will be my responsibility to onboard new hires a year from now.
 
 ## Deadline
 
