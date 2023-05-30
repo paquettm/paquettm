@@ -83,8 +83,7 @@ If your resume is empty, or if this will not cause the CV to be crowded, or othe
 - Don't use complete sentences.
 - Don't think that your résumé alone will get you in the door! Always try to arrange for an interview, because that is where you can make a real impression on a prospective employer. (See handout on job interviews for more information)
 
-| **Ronald**** Dembly ****Computer Science Student** | Mobile: (514) 269-7986[RDembly@hotmail.com](mailto:RDembly@hotmail.com)[https://github.com/RDembly](https://github.com/RDembly)[https://www.linkedin.com/in/RDembly/](https://www.linkedin.com/in/RDembly/)
- |
+| **Ronald**** Dembly ****Computer Science Student** | Mobile: (514) 269-7986[RDembly@hotmail.com](mailto:RDembly@hotmail.com)[https://github.com/RDembly](https://github.com/RDembly)[https://www.linkedin.com/in/RDembly/](https://www.linkedin.com/in/RDembly/) |
 | --- | --- |
 |
 
