@@ -95,8 +95,4 @@ Use a professional style for your resume that does not contain too many colors a
 - Don't use complete sentences.
 - Don't think that your résumé alone will get you in the door! Always try to arrange for an interview, because that is where you can make a real impression on a prospective employer. (See handout on job interviews for more information)
 
-<object data="https://github.com/paquettm/paquettm/blob/main/Example_Resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/paquettm/paquettm/blob/main/Example_Resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![Example Resume](./Example_Resume.png)
