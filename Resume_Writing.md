@@ -60,6 +60,10 @@ When you create your application as a response to a job posting, you should make
 
 For example, if you have experience with MySQL, PostgreSQL, and Oracle and write `Relational Database Management Systems` in your CV, but the job posting asks for experience with PostgreSQL, then you must make sure to include the term PortgreSQL in your CV in the technical skills section.
 
+# Styling 
+
+Use a professional style for your resume that does not contain too many colors and fonts. Visit canva.com to get inspired about which template you can use. 
+
 # THE DO'S AND DON'TS
 
 ## DO
