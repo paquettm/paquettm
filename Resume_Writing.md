@@ -52,6 +52,14 @@ Work-related honours, e.g., salesperson of the year for 2021 to 2023, should be 
 
 If your resume is empty, or if this will not cause the CV to be crowded, or otherwise if the application instructions state that you should or you are certain it will help to talk about your special interests for this job/employer, then you can include a section about your personal interests. Otherwise, if it will make your CV crowded, you should think about skipping this section.
 
+# Keywords
+
+Employers use software that search for words in documents in order to find the most relevant CVs and cover letters. Specifically, employers are searching for keywords in these documents to get the candidates that match the job postings as much as possible.
+
+When you create your application as a response to a job posting, you should make sure that kyour CV/cover letter speak the same language as the job posting. In other words, adapt the language in your CV to correctly contain the keywords that are used in the requirements expressed in the job posting.
+
+For example, if you have experience with MySQL, PostgreSQL, and Oracle and write `Relational Database Management Systems` in your CV, but the job posting asks for experience with PostgreSQL, then you must make sure to include the term PortgreSQL in your CV in the technical skills section.
+
 # THE DO'S AND DON'TS
 
 ## DO
@@ -83,31 +91,3 @@ If your resume is empty, or if this will not cause the CV to be crowded, or othe
 - Don't use complete sentences.
 - Don't think that your résumé alone will get you in the door! Always try to arrange for an interview, because that is where you can make a real impression on a prospective employer. (See handout on job interviews for more information)
 
-| **Ronald**** Dembly ****Computer Science Student** | Mobile: (514) 269-7986[RDembly@hotmail.com](mailto:RDembly@hotmail.com)[https://github.com/RDembly](https://github.com/RDembly)[https://www.linkedin.com/in/RDembly/](https://www.linkedin.com/in/RDembly/) |
-| --- | --- |
-|
-
-**Objective** Soon-graduating Vanier College computer science student looking to pursue a career in Web development.
-
-**Education**** DEC Computer Science Technology**Vanier CollegeMontreal, January 2020 – present
-**High School diploma / International program diploma (PEI)**Laurier MacDonald High SchoolMontreal, 2016-2020Graduated with honors
-
-**General Skills** • Motivated and hard worker • Quick learner and good team player • French language: good in writing, reading and oral • English language: advanced in writing, reading and oral
-
-**Awards and Honours**** DEAN's Honor Roll**
-Excellent R-scoreVanier College, Winter 2021 **DEAN's Honor Roll**
-Excellent R-score
-Vanier College, Fall 2020 |
-
-**Work Experience**  **Technical Support Technician** ABC SERVICES, May 2021 — present • Receive and handle technical requests and incidents. • Respond to technical incidents and requests providing a resolution to tickets. • Monitor ticket records and advises relevant support team of actions taken. • Ensure that incidents and requests are handled according to agreed upon procedures. **Maintenance Technician**
-XYZ SERVICES, May 2019 — Aug 2019 • Train new employees and show them the procedures. • Repair products that had to be shipped and marked. • Inspect newly built tents to fit regulations. • Keep track inventory and product line.
-
-**Technical Skills**  **Programming, Scripting, and Description Languages** Java, JavaScript, Python, C#, C, PHP, HTML, CSS, JSON, XML **Programming Paradigms** Object Oriented Programming, Front-end and Back-end development **Operating Systems and Environments** Windows 10-11, Linux, Android, VirtualBox **Code Version Management** Git and GitHub **Database Management Systems** Oracle and MySQL **IDEs** Netbeans, IntelliJ
-
-**References available upon request** |
-
-|
- |
- |
- |
-| --- | --- | --- |
