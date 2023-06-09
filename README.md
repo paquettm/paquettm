@@ -5,3 +5,5 @@ I am currently working on keeping students learning by keeping them honest towar
 [Classroom Environment](Classroom_Environment.MD).
 
 [Internship Activity Logging](Internship_logging.md).
+
+[Resume Writing](Resume_Writing.md).
