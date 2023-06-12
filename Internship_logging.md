@@ -1,4 +1,4 @@
-#Internship activity logging
+# Internship activity logging
 
 Internships are privileged experiences when the student can finally explore a real work environment and live the experiences of the workplace.
 These experiences can be overwhelming and it is easy to lose sight of the importance of some experiences that are lived in this context.
