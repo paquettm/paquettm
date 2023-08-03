@@ -8,6 +8,5 @@ I am currently working on keeping students learning by keeping them honest towar
 
 [Resume Writing](Resume_Writing.md).
 
-[PHP MVC Framework](https://github.com/paquettm/PHP_MVC_Framework)
-
+[PHP MVC Framework](https://github.com/paquettm/PHP_MVC_Framework): 
 Small PHP framework to build MVC applications.
