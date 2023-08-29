@@ -12,3 +12,8 @@ Currently teaching Internet of Things: Introduction to Python Programming ([see 
 
 [PHP MVC Framework](https://github.com/paquettm/PHP_MVC_Framework): 
 Small PHP framework to build MVC applications.
+
+See my [Youtube Channel](https://www.youtube.com/@MichelPaquette) where you will find full course playlists:
+- [PHP MVC Web application development](https://www.youtube.com/watch?v=2XRK0U4WKRQ&list=PLk4WFMCLz7Cy-deb3GefNca_SrDWXz7gj)
+- [Introductory Python Programming](https://www.youtube.com/watch?v=Q53t9rO1ISI&list=PLk4WFMCLz7CwGoYjGX9ov_EISs445ExVy)
+these series could use some updates, but the world is so big and there is so little time!
