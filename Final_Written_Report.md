@@ -1,16 +1,4 @@
-# 2. Task and Reflection Logs 
-
-Deadline:after each 100 hours of internship.
-
-## Task Log
-
-as per instructions
-
-## Reflection Log
-
-as per instructions
-
-# 3. Final Written Report
+# Final Written Report
 
 Deadline: 3 days after completion of your internship
 
