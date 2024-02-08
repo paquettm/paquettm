@@ -6,12 +6,21 @@ I am a full-stack developer and engineer.
 
 As a teacher, I am keeping students learning by keeping them honest.
 
-I am teaching Internet of Things: Introduction to Python Programming ([see the repo](https://github.com/paquettm/420-302-VA_A23)).
+I am currently teaching eCommerce 
+- See the [PHP Guide repo](https://github.com/paquettm/PHP_Guide)
+- See the [H24 Section 1 current codebase](https://github.com/paquettm/eComH24S1) 
+
+See my [Youtube Channel](https://www.youtube.com/@MichelPaquette) where you will find an older full course playlist:
+- [PHP MVC Web application development](https://www.youtube.com/watch?v=2XRK0U4WKRQ&list=PLk4WFMCLz7Cy-deb3GefNca_SrDWXz7gj)
 
 I also organise and supervise Computer Science student internships.
 
 - [Internship Activity Logging](Internship_logging.md)
 - [Resume Writing](Resume_Writing.md)
+
+## Last semester: Internet of Things: Introduction to Python Programming
+
+Fun class to teach and hopefully equally fun to follow ([see the repo](https://github.com/paquettm/420-302-VA_A23)).
 
 ## Past Teaching: Python and development of PHP MVC Web applications
 
