@@ -43,4 +43,5 @@
 * Workplace culture can vary between companies.
 * It's important to adapt to local codes and practices.
 * Punctuality and attendance are highly valued.
+* Coachability - the ability to receive constructive criticism correctly - is essential.
 
