@@ -51,7 +51,7 @@
 
 **Do not hesitate to contact me if you have any further questions.**
 
-**## The CV for an internship in Quebec**
+## The CV for an internship in Quebec
 
 **1. Format and structure:**
 
