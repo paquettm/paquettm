@@ -36,7 +36,6 @@
 **Useful resources:**
 
 * **Government of Quebec:** [https://www.linguee.fr/francais-anglais/traduction/non+valide.html](https://www.linguee.fr/francais-anglais/traduction/non+valide.html)
-* **Immigration Quebec:** [[URL non valide supprimée]]([URL non valide supprimée])
 * **Office franco-québécois pour la jeunesse (OFQJ):** [https://www.linguee.fr/francais-anglais/traduction/non+valide.html](https://www.linguee.fr/francais-anglais/traduction/non+valide.html)
 
 **Additional tips:**
