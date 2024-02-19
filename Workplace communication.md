@@ -1,4 +1,4 @@
-# Communication in Quebec Workplaces: A Glimpse in English
+# Communication in Quebec Workplaces: A Glimpse
 
 **1. Direct and Open Communication:**
 
