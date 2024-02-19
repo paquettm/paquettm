@@ -1,4 +1,4 @@
-## Traduction de la conversation en anglais
+# Internships : Overview of obtaining them
 
 **1. Les types de stages disponibles:**
 
@@ -91,4 +91,4 @@
 * **Immigration Quebec:** [[URL non valide supprimée]]([URL non valide supprimée])
 * **Jobboom:** [https://www.linguee.fr/francais-anglais/traduction/non+valide.html](https://www.linguee.fr/francais-anglais/traduction/non+valide.html)
 
-**In conclusion, a well-written CV adapted to
+**In conclusion, a well-written CV adapted to the Quebec context is essential for obtaining an internship
