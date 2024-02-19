@@ -39,13 +39,7 @@
 * Adapt to local codes and practices in the Quebec workplace.
 * Mastering French is crucial for successful professional integration.
 
-**Additional Resources:**
-
-* **Government of Quebec:** [https://www.linguee.fr/francais-anglais/traduction/non+valide.html](https://www.linguee.fr/francais-anglais/traduction/non+valide.html)
-* **Immigration Quebec:** [https://www.linguee.fr/francais-anglais/traduction/non+valide.html](https://www.linguee.fr/francais-anglais/traduction/non+valide.html)
-* **Jobboom:** [https://www.linguee.fr/francais-anglais/traduction/non+valide.html](https://www.linguee.fr/francais-anglais/traduction/non+valide.html)
-
-**In conclusion, effective communication is essential for professional success in Quebec. Embracing local communication codes and fostering respectful interactions will pave the way for lasting connections and productive collaboration.**
+**Effective communication is essential for professional success in Quebec. Embracing local communication codes and fostering respectful interactions will pave the way for lasting connections and productive collaboration.**
 
 ## Topics to avoid...
 
