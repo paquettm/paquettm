@@ -1,4 +1,4 @@
-## Quebec Workplace Culture: A Summary in English
+## Quebec Workplace Culture: A Summary
 
 **1. Equality and Respect:**
 
