@@ -83,8 +83,3 @@
 * **Use action verbs and concrete examples.**
 * **Check grammar and spelling.**
 * **Have someone else proofread your CV.**
-
-**Useful resources:**
-
-* **Jobboom:** [https://www.linguee.fr/francais-anglais/traduction/non+valide.html](https://www.linguee.fr/francais-anglais/traduction/non+valide.html)
-
