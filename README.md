@@ -1,4 +1,4 @@
-# Hi :smiley: My name is Michel Paquette :smiley:
+# Hi :wave: My name is Michel Paquette :smiley:
 
 I am a full-stack developer, engineer, and computer science teacher.
 
