@@ -1,24 +1,24 @@
 # Hi :smiley: My name is Michel Paquette :smiley:
 
-I am a full-stack developer and engineer.
+I am a full-stack developer, engineer, and computer science teacher.
 
 ## Current Activities
 
-As a teacher, I am keeping students learning by keeping them honest.
+I organise and supervise Computer Science student internships.
 
-I am currently teaching eCommerce 
+- [Resume Writing](Resume_Writing.md)
+- [Internship Activity Logging](Internship_logging.md)
+
+Winter of 2024, I was teaching eCommerce 
 - See the [PHP Guide repo](https://github.com/paquettm/PHP_Guide)
 - See the [H24 Section 1 current codebase](https://github.com/paquettm/eComH24S1) 
 
 See my [Youtube Channel](https://www.youtube.com/@MichelPaquette) where you will find an older full course playlist:
 - [PHP MVC Web application development](https://www.youtube.com/watch?v=2XRK0U4WKRQ&list=PLk4WFMCLz7Cy-deb3GefNca_SrDWXz7gj)
 
-I also organise and supervise Computer Science student internships.
 
-- [Internship Activity Logging](Internship_logging.md)
-- [Resume Writing](Resume_Writing.md)
 
-## Last semester: Internet of Things: Introduction to Python Programming
+## Fall 2023: Internet of Things: Introduction to Python Programming
 
 Fun class to teach and hopefully equally fun to follow ([see the repo](https://github.com/paquettm/420-302-VA_A23)).
 
