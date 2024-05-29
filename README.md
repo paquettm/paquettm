@@ -9,14 +9,12 @@ I organise and supervise Computer Science student internships.
 - [Resume Writing](Resume_Writing.md)
 - [Internship Activity Logging](Internship_logging.md)
 
-Winter of 2024, I was teaching eCommerce 
+## Winter 2024: eCommerce 
 - See the [PHP Guide repo](https://github.com/paquettm/PHP_Guide)
 - See the [H24 Section 1 current codebase](https://github.com/paquettm/eComH24S1) 
 
 See my [Youtube Channel](https://www.youtube.com/@MichelPaquette) where you will find an older full course playlist:
 - [PHP MVC Web application development](https://www.youtube.com/watch?v=2XRK0U4WKRQ&list=PLk4WFMCLz7Cy-deb3GefNca_SrDWXz7gj)
-
-
 
 ## Fall 2023: Internet of Things: Introduction to Python Programming
 
