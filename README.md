@@ -2,9 +2,13 @@
 
 I am a full-stack developer, engineer, and computer science teacher.
 
-## Current Activities
+## Current Activities Fall 2024
 
-I organise and supervise Computer Science student internships.
+### Internet of Things: Introduction to Python Programming
+
+Learning to have fun with physical computing ([see the repo](https://github.com/paquettm/420-302-VA_A24)).
+
+### Internship Organisation and Supervision
 
 - [Resume Writing](Resume_Writing.md)
 - [Internship Activity Logging](Internship_logging.md)
