@@ -10,6 +10,7 @@ Learning to have fun with physical computing ([see the repo](https://github.com/
 
 ### Internship Organisation and Supervision
 
+- [Job Search Strategies](Job_Search_Strategies.md)
 - [Resume Writing](Resume_Writing.md)
 - [Internship Activity Logging](Internship_logging.md)
 
