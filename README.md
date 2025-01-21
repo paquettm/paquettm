@@ -2,17 +2,19 @@
 
 I am a full-stack developer, engineer, and computer science teacher.
 
-## Current Activities Fall 2024
-
-### Internet of Things: Introduction to Python Programming
-
-Learning to have fun with physical computing ([see the repo](https://github.com/paquettm/420-302-VA_A24)).
+## Current Activities Winter 2025
 
 ### Internship Organisation and Supervision
 
 - [Job Search Strategies](Job_Search_Strategies.md)
 - [Resume Writing](Resume_Writing.md)
 - [Internship Activity Logging](Internship_logging.md)
+
+## Fall 2024
+
+### Internet of Things: Introduction to Python Programming
+
+Learning to have fun with physical computing ([see the repo](https://github.com/paquettm/420-302-VA_A24)).
 
 ## Winter 2024: eCommerce 
 - See the [PHP Guide repo](https://github.com/paquettm/PHP_Guide)
