@@ -2,6 +2,16 @@
 
 When writing a resume, there is information that you need to include to identify the resume to you, and to list the credentials, skills, and experiences that you have and that match the career objectives that you are trying to realise. These guidelines are especially directed toward Computer Science students.
 
+Before we develop the general strategy, let's quickly go through any known specifics.
+
+## Video Game Industry
+
+Any studio will be looking for some code sample(s) and maybe even a video demo of a project; you must have a video game project on GitHub available to share anytime.
+Students work to figure out their own projects, so writing a game development doc, even high level, shows a comprehension and ability beyond what can be communicated verbally; include a GDD in your video game project repository.
+
+In short... if you are aiming to enter the Video Game Industry, your GitHub repositories (to which you will refer in your Resume) must contain Video Game projects.
+
+# ... And In General
 ## Header
 
 The header section identifies you. Include the following information:
