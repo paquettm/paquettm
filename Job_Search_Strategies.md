@@ -2,6 +2,14 @@
 
 Job search strategies in the tech industry have evolved significantly, and it's crucial to adopt a multi-faceted approach to land your ideal role.
 
+Before we develop the general strategy, let's quickly go through any known specific strategies.
+
+## Video Game Industry
+
+Any studio will be looking for some code sample(s) and maybe even a video demo of a project; you must have a video game project on GitHub available to share anytime.
+Students work to figure out their own projects, so writing a game development doc, even high level, shows a comprehension and ability beyond what can be communicated verbally; include a GDD in your video game project repository.
+
+# ... And In General
 ## Networking at Meetups
 
 One of the most powerful job search strategies is networking, particularly at tech meetups and conferences.
