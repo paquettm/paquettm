@@ -2,7 +2,11 @@
 
 I am a full-stack developer, engineer, and computer science teacher.
 
+I like to program with and teach Python. Do you know about the [free OpenStax Python programming online book](https://openstax.org/books/introduction-python-programming/pages/1-introduction)?
+
 ## Current Activities Winter 2025
+
+
 
 ### Internship Organisation and Supervision
 
