@@ -4,6 +4,8 @@ I am a full-stack developer, engineer, and computer science teacher.
 
 I like to program with and teach Python. Do you know about the [free OpenStax Python programming online book](https://openstax.org/books/introduction-python-programming/pages/1-introduction)?
 
+OpenStax has [a few computer science free online resources](https://openstax.org/subjects/computer-science)
+
 ## Current Activities Winter 2025
 
 
