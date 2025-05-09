@@ -12,6 +12,7 @@ OpenStax has [a few computer science free online resources](https://openstax.org
 
 ### Internship Organisation and Supervision
 
+- [Matti the academic chatbot](http://chatbot.vaniercollege.qc.ca/) :robot: developed in collaboration with Julie Plante 
 - [Job Search Strategies](Job_Search_Strategies.md)
 - [Resume Writing](Resume_Writing.md)
 - [Internship Activity Logging](Internship_logging.md)
