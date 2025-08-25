@@ -6,15 +6,21 @@ I like to program with and teach Python. Do you know about the [free OpenStax Py
 
 OpenStax has [a few computer science free online resources](https://openstax.org/subjects/computer-science)
 
-## Current Activities Winter 2025
+## Current Activities Fall 2025
 
-In collaboration with Julie Plante, developed [Matti the academic chatbot](http://chatbot.vaniercollege.qc.ca/) :robot: 
+### Internet of Things: Introduction to Python Programming
+
+Learning to have fun with physical computing ([see the repo](https://github.com/paquettm/420-302-VA_A25)).
 
 ### Internship Organisation and Supervision
 
 - [Job Search Strategies](Job_Search_Strategies.md)
 - [Resume Writing](Resume_Writing.md)
 - [Internship Activity Logging](Internship_logging.md)
+
+## Winter 2025
+
+In collaboration with Julie Plante, developed [Matti the academic chatbot](http://chatbot.vaniercollege.qc.ca/) :robot: 
 
 ## Fall 2024
 
