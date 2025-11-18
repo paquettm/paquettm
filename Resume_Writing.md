@@ -285,3 +285,5 @@ A relevant article on the topic: [How to Write a Resume](https://www.thebalancec
 [This article](https://learntocodewith.me/work-in-tech/successful-job-search/) is a good read for those who are looking for a job in the tech industry. It contains a lot of useful information about the job search process, including how to write a resume, how to write a cover letter, how to prepare for an interview, and how to negotiate a job offer.
 
 Also, this YouTube video explores ATS-Friendliness, in a nutshell [Your Resume Is Getting REJECTED by ATS (Here’s How to FIX IT) + FREE TEMPLATE INSIDE!](https://www.youtube.com/watch?v=ovFZjo3fvq8)
+
+[The ATS Reliability Crisis: Why Your Resume Needs to Be ATS-Friendly](ATS_Reliability.md) is a compilation of information about different ATS systems justifying the need for all jobseekers to mind the ATS compatibility of their resume.
