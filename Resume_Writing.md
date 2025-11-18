@@ -109,6 +109,9 @@ Use a professional style for your resume that does not contain too many colors a
 
 ![Example Resume](./Example_Resume.png)
 
+Ronald's Resume is OK, but it could be better...
+It may need some changes to get it to reach the stage at which it will be read by employers.
+Read on...
 
 ## ATS Friendliness
 
