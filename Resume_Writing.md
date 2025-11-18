@@ -109,6 +109,166 @@ Use a professional style for your resume that does not contain too many colors a
 
 ![Example Resume](./Example_Resume.png)
 
+
+## ATS Friendliness
+
+*Applicant Tracking Systems* (ATS) are tools that fiolter through the overabundant applicant resumes companies receive.
+These tools parse your resume and automatically complete an applicant profile to be able to verify if you match the postings.
+In other words, to get a job, you first need to please the ATS, and then you need to please the hiring manager(s).
+
+### Why ATS‑friendly Resumes Matter
+
+Most companies use Applicant Tracking Systems (ATS) to:
+
+1. **Parse** every uploaded file.  
+2. **Convert** that data into a searchable database.  
+3. **Match** candidate keywords against the job description.  
+
+If your résumé is formatted or worded in a way the ATS can’t read, it may never get into the hiring manager’s hands – even if you’re a perfect fit.  
+
+Below is a practical, bite‑size checklist to turn your résumé into an ATS‑ready document.
+
+---
+
+### 1️⃣ Formatting & Layout
+
+| Rule | What to do | What to avoid |
+|------|------------|---------------|
+| **Keep it simple** | Use a standard font (Calibri, Arial, Times New Roman) in 10–12 pt. | Fancy script fonts, gradients, or decorative fonts. |
+| **Header & footer** | Put only essential info: name, phone, email. | Contact info in a picture, footnotes, or header/footer that gets trimmed when uploaded. |
+| **No images or logos** | Stick to plain text. | Photos, icons, logos, or “graphic” bullet points. |
+| **No tables/text‑boxes** | Use line breaks & bullets only. | Multi‑column tables, sidebars, or nested text boxes. |
+| **Single‑column, left‑justified** | All content flows left‑to‑right. | Two‑column layouts or right‑hand sidebars. |
+| **Consistent section headings** | `Professional Summary`, `Core Competencies`, `Work Experience`, `Education`, `Certifications`. | Creative headings like “What I’ve Done” or “Skills & Expertise” that the ATS may not recognise. |
+| **Keep margins 0.75‑1.0″** | Ensures nothing gets clipped. | Huge margins or inconsistent spacing that changes line numbers. |
+
+> **File formats:**  
+> • **.docx** (preferred for most ATS)  
+> • **PDF** (only if it’s *text‑based* – not a scanned image).  
+
+---
+
+### 2️⃣ Content That ATS Loves
+
+| Section | How to write it | Example |
+|---------|----------------|---------|
+| **Professional Summary** | 2‑3 short sentences that mirror the job title + 2‑3 key keywords. | “Senior Python Developer with 6 years of experience in API‑driven, cloud‑native architecture, specializing in AWS, Docker, and CI/CD.” |
+| **Core Competencies / Technical Skills** | List *exact* tool names & key phrases in a single column or two short bullets. | • Python • Django • REST • AWS • Docker • CI/CD • Git • JIRA |
+| **Work Experience** | Use reverse chronological order. For each role: job title, company, dates, then 3–5 bullet points. | • “Led a team of 4 to build a microservices‑based inventory system, reducing query latency by 35 %.” |
+| **Quantify results** | Numbers stick in the ATS database and catch human eyes. | • “Improved deployment speed from 30 min to 5 min, cutting costs by 20 %.” |
+| **Avoid acronyms alone** | Spell out first, then use acronym in parentheses. | “Agile (Scrum) methodology” rather than just “Agile.” |
+
+---
+
+### 3️⃣ Keyword Optimization
+
+1. **Scrutinize the posting** – copy the description to a plain‑text file.  
+2. **List hard requirements** (technical stack, certifications, soft‑skills).  
+3. **Match exactly** – if the posting says “AWS SageMaker”, write that verbatim.  
+4. **Add synonyms but keep the exact phrase** – e.g., “Python (Flask, Django)”.  
+5. **No keyword stuffing** – a single paragraph with 30+ repeats looks spammy.  
+6. **Avoid obscure abbreviations** – “ML” is fine, but “MLOps” may not be recognised.  
+
+> **Tip:** Use a free tool like **ResyMatch** or **Jobscan** to compare your résumé against the posting and get a match‑rate score.
+
+---
+
+### 4️⃣ File Naming & Metadata
+
+| Recommendation | Why it matters |
+|----------------|----------------|
+| `FirstName_LastName_Resume.pdf` | ATS parses the file name for the applicant’s identity. |
+| No spaces or special characters | Some systems strip or mis‑read file names. |
+| < 5 MB | Large files can fail uploads or be truncated. |
+| Embed contact info in the document (not only in file name) | Some ATS ignore the “Contact” field if it’s missing. |
+
+---
+
+### 5️⃣ Submission Strategy
+
+| Action | What to do | Why |
+|--------|------------|-----|
+| **Upload the file** | Drag & drop the .docx or PDF, not copy‑paste into a text box. | The file preserves formatting; text boxes can truncate bullets. |
+| **Check the PDF** | Open on another device; if it’s a scanned image, convert to text. | Scanned PDFs are invisible to ATS. |
+| **Preview in ATS tool** | Run the résumé through **Jobscan**, **Resumonk**, or **SkillSyncer** before sending. | You’ll see if the ATS reads your skills, dates, and bullets. |
+
+---
+
+### 6️⃣ Handy Templates & Tools
+
+| Tool | What it does | Free tier? |
+|------|--------------|------------|
+| **Jobscan** | Matches résumé to job description, shows keyword gaps. | Yes, limited free scans. |
+| **ResyMatch.io** | Open‑source keyword match. | Yes. |
+| **ResumeWorded** | Offers ATS readability score. | Yes, limited free usage. |
+| **Google Docs ATS‑Friendly Template** | Ready‑to‑use skeleton with correct headings. | Yes. |
+| **Canva/Word Templates** | Choose the “ATS‑Friendly” option. | Usually free for basic templates. |
+
+**BE CAREFUL OF TEMPLATES THAT DO NOT FOLLOW THE ABOVE RECOMMENDATIONS DESPITE STATING THEIR ATS FRIENDLINESS/CPOMPATIBILITY.**
+
+---
+
+### 7️⃣ Quick ATS‑Ready Résumé Skeleton (Text Version)
+
+```
+FirstName LastName
+Phone | Email | LinkedIn | GitHub
+
+PROFESSIONAL SUMMARY
+------------------------------------------------------------------
+Senior Backend Engineer with 7+ years in cloud‑native API
+development. Expert in Python, Docker, Kubernetes, and AWS
+Lambda. Proven track record of delivering scalable services
+under tight deadlines.
+
+CORE COMPETENCIES
+------------------------------------------------------------------
+• Python • Flask • Django • FastAPI • REST • GraphQL • Docker
+• Kubernetes • AWS • Terraform • Git • CI/CD • Jenkins
+• SQL • PostgreSQL • MongoDB • CloudWatch • Grafana
+
+PROFESSIONAL EXPERIENCE
+------------------------------------------------------------------
+Senior Backend Engineer | XYZ Corp | Jan 2021 – Present
+• Designed and deployed a microservices platform on AWS ECS, cutting
+  deployment time from 2 hrs to 30 min.
+• Implemented CI/CD pipeline with GitHub Actions and Terraform,
+  reducing roll‑back incidents by 40 %.
+
+Backend Engineer | ABC Ltd | Mar 2018 – Dec 2020
+• Built RESTful APIs using Django REST Framework; achieved
+  99.9 % uptime during peak traffic.
+• Integrated Prometheus & Grafana dashboards, decreasing
+  mean‑time‑to‑detect by 25 %.
+
+...
+
+EDUCATION
+------------------------------------------------------------------
+Bachelor of Science, Computer Science | State University | 2014–2018
+Certification: AWS Certified Solutions Architect – Associate
+
+```
+
+> **Why this works:**  
+> *Clear sections, keyword‑rich summary, quantified bullets, single column, no images.*
+
+---
+
+### 8️⃣ Final Checklist (Copy‑Paste Ready)
+
+- [ ] Use a **standard font** (Calibri, Arial, Times New Roman, 10–12 pt).  
+- [ ] Keep the layout **single‑column**; no sidebars or tables.  
+- [ ] Include **standard section headings** (`Summary`, `Skills`, `Experience`, `Education`).  
+- [ ] Embed contact info in the **document** and name the file `FirstName_LastName_Resume.docx` or `.pdf`.  
+- [ ] Match **exact keywords** from the job description; avoid obscure acronyms.  
+- [ ] Quantify achievements (e.g., “reduced processing time by 30 %”).  
+- [ ] Keep the **PDF** text‑based, not a scanned image.  
+- [ ] Upload the file directly to the job portal; don’t paste it into a web form.  
+- [ ] Run the résumé through an ATS‑testing tool (Jobscan, ResyMatch) before sending.  
+
+---
+
 ## Recommended Reading
 
 A relevant article on the topic: [How to Write a Resume](https://www.thebalancecareers.com/how-to-write-a-resume-2063336)
