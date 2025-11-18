@@ -74,7 +74,11 @@ Moreover, if only certain skills in your resume are relevant to the job posting,
 
 ## Styling 
 
-Use a professional style for your resume that does not contain too many colors and fonts. Visit canva.com to get inspired about which template you can use. 
+Use a professional style for your resume that does not contain too many colors and fonts.
+You may visit canva.com to get inspired about which template you can use.
+But be careful: Applicant Tracking Systems (ATS) now filter through resumes before these reach the recruiters.
+Formatting your resume the wrong way may get it rejected even before you had a chance.
+For more information on this, read on.
 
 ## Revisiting the Above with DO'S and DON'Ts
 
@@ -110,8 +114,10 @@ Use a professional style for your resume that does not contain too many colors a
 ![Example Resume](./Example_Resume.png)
 
 Ronald's Resume is OK, but it could be better...
-It may need some changes to get it to reach the stage at which it will be read by employers.
-Read on...
+
+Depending if it gets parsed visually or by reading the file, the multi-column layout could land Ronald's resume in the rejection pile.
+
+In the next section, we explore how to optimize Ronald's resume to increase the chances it will be read by the hiring manager.
 
 ## ATS Friendliness
 
