@@ -111,6 +111,90 @@ For more information on this, read on.
 - Don't use complete sentences.
 - Don't think that your résumé alone will get you in the door! Always try to arrange for an interview, because that is where you can make a real impression on a prospective employer. (See handout on job interviews for more information)
 
+-------------------------------------------------------------------------------------
+
+# RONALD DEMBLY
+
+Laval, QC | (438) 123-4567 | ronald.dembly@email.com | github.com/ronalddembly
+
+---
+
+## PROFESSIONAL SUMMARY
+
+Computer Science Technology student at Vanier College graduating December 2026. Developing foundational skills in full-stack web and mobile application development, network configuration, and data-driven problem solving. Seeking end-of-studies internship to apply technical knowledge in a professional development environment.
+
+---
+
+## TECHNICAL SKILLS
+
+**Programming Languages:** Python, JavaScript, Java, C#
+
+**Web Development:** HTML5, CSS3, React, Node.js, RESTful APIs
+
+**Mobile Development:** Android (Java), basic iOS (Swift)
+
+**Database:** SQL, MySQL, Firebase
+
+**Tools & Platforms:** Git, GitHub, Visual Studio Code, IntelliJ IDEA, Visual Studio
+
+**Networking:** Network configuration fundamentals, TCP/IP protocols, routing basics
+
+**Other:** Agile methodology, object-oriented programming, debugging and testing
+
+---
+
+## EDUCATION
+
+**Diploma of Collegial Studies (DCS) in Computer Science Technology**  
+Vanier College, Montréal, QC  
+Expected Graduation: December 2026
+
+Relevant Coursework: Object-Oriented Programming, Web Application Development, Mobile App Development, Database Design, Network Administration, Data Structures and Algorithms
+
+---
+
+## PROJECTS
+
+**Weather Dashboard Web Application**  
+github.com/ronalddembly/weather-dashboard | JavaScript, React, OpenWeather API  
+Developed a responsive single-page application displaying real-time weather data with location search functionality. Implemented API integration, state management, and responsive CSS styling.
+
+**Inventory Management System**  
+github.com/ronalddembly/inventory-manager | Python, MySQL, Flask  
+Built a command-line inventory tracking system with database backend. Features include add/remove items, search functionality, and data persistence using SQL queries.
+
+**Android Task Manager App**  
+github.com/ronalddembly/task-manager-android | Java, Android Studio  
+Created a mobile application for task creation, organization, and completion tracking. Implemented local database storage and user interface design patterns.
+
+**Network Lab Configuration Project**  
+github.com/ronalddembly/network-setup-docs | Networking Documentation  
+Documented configuration procedures for setting up a small business network including router setup, IP addressing, and basic security protocols.
+
+---
+
+## CORE COMPETENCIES
+
+- Full-stack application development (frontend and backend)
+- Responsive web design and mobile app development
+- Database design and SQL query writing
+- Version control and GitHub collaboration
+- Problem-solving and debugging
+- Team-based software development
+- Technical documentation and communication
+
+---
+
+## ADDITIONAL INFORMATION
+
+- Strong foundation in software development lifecycle
+- Comfortable learning new tools and frameworks
+- Available to start internship: January 2027
+- Open to hybrid or remote positions within Greater Montreal area
+
+------------------------------------------------------------------------------------------------
+
+
 ![Example Resume](./Example_Resume.png)
 
 Ronald's Resume is OK, but it could be better...
