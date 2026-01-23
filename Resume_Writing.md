@@ -117,7 +117,7 @@ Ronald's Resume is OK, but it could be better...
 
 Depending if it gets parsed visually or by reading the file, the multi-column layout could land Ronald's resume in the rejection pile.
 
-Here is a better example of how Ronald should format his resume. Continue reading if you want to understand why we put everythng on a single column.
+Here is how Ronald should format his resume. This Ronald as no work experience, if he did, that should be placed near the top of the resume. Continue reading if you want to understand why we put everythng on a single column.
 
 ![ATS-Friendly Example Resume](./ATS_Friendly_Example_Resume.png)
 
